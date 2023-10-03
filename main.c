@@ -1,5 +1,5 @@
-int main(int argc, char const *argv[])
-{
-    printf("hello world");
-}
+int main(void){
+   printf("Hello World");
+   printf("salut");
+   }
 
