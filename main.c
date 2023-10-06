@@ -1,5 +1,4 @@
 int main(void){
-   printf("Hello World");
-   printf("salut");
+   printf("Hello je fais le tp2 partie : Créer une branche pour un correctif");
    }
 
